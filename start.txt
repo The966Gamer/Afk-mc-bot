@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Starting AFK Bot..."
+
+node bot.js
