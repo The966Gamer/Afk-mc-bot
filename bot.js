@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer')
 
 const config = {
-  host: 'zahomies.mcsh.io',
+  host: 'theboyzx.falixsrv.me',
   port: 25565,
   username: 'MrBot'
 }
